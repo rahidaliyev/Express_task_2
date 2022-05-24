@@ -5,6 +5,7 @@ app.listen(3000,function(req,res){
 })
 
 const products=[
+    
 {"id":1,"name":"sugar","price":20,"quantity":30 },
 {"id":2,"name":"tea","price":23,"quantity":31 },
 {"id":3,"name":"oil","price":25,"quantity":32 },
